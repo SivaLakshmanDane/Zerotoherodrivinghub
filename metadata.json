@@ -1,0 +1,6 @@
+{
+  "name": "Zero to Hero Driving Hub",
+  "description": "Premium car driving training hub in Kukatpally, Hyderabad with doorstep training, 1-day practical mastery, and specialized programs in English and Telugu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
