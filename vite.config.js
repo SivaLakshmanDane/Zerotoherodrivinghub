@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()]
-       base:'/Zerotoherodrivinghub/',
+       base: '/Zerotoherodrivinghub/'
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
